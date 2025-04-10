@@ -5,7 +5,7 @@ export const Footer = () => {
     <footer>
       {" "}
       <Link
-        to="https://github.com/S-Trivedii?tab=repositories"
+        to="https://github.com/S-Trivedii/Internshala-todo-app"
         target="_blank"
         rel="noopener noreferrer"
       >
